@@ -11,6 +11,10 @@ This repo contains online web design course using reactjs
 ***This is both bold and italic***
 
 1. Fruits
-    1.Mango
-    2.Orange
-    3.Apple
+   1. Mango
+   2. Apple
+   3. Banana
+ 
+* Vegitables
+    * Tomato
+    * Cucumber
